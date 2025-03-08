@@ -9,6 +9,6 @@
 <body>
 	<h2> Welcome ${modelName} </h2>
 	
-	<a href="logout"> Logout </a>
+	<a href="logout"> Logout from Website </a>
 </body>
 </html>
